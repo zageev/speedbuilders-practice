@@ -1,0 +1,2 @@
+execute if score ms stopwatch matches 05 run title @a actionbar [{"score":{"objective":"stopwatch","name":"s"}},{"text":".0"},{"score":{"objective":"stopwatch","name":"ms"}}]
+execute unless score ms stopwatch matches 05 run title @a actionbar [{"score":{"objective":"stopwatch","name":"s"}},{"text":"."},{"score":{"objective":"stopwatch","name":"ms"}}]

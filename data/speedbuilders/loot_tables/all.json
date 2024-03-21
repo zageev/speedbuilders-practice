@@ -1,0 +1,1929 @@
+
+    {
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:acacia_parkour\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:air_pods\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:amogus\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:andesite_leaves\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:apple\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:arches\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:armor_stand\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:bacteria\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:basketball\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:beach\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:beacon\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:bee\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:blaze\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:blue_sign_road\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:bobr\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:bomb\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:bone\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:book\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:bookshelves\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:bookshelves_2\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:borscht\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:bridge\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:bt\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:buoys\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:burger\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:cactus\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:cake\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:campfire\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:canal\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:candy_cane\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:candy_cane_snowy\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:carrot\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:cart\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:car_blue\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:car_red\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:cherry\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:chicken\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:chicken_leg\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:circus\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:clay_wool\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:clock\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:clock_2\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:coffee\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:color_circle\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:creeper\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:cupcake\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:desert\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:desert_well\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:diamond_block\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:diamond_pyramid\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:diamond_ring\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:diamond_sword\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:dino\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:doodle_jump\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:elephant\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:enchanting_table_1\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:enchanting_table_2\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:enderman\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:enderman_head\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:ender_dragon\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:ender_eye\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:end_fountain\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:end_portal\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:end_towers\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:feather\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:finish\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:fishing_rod\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:flower_blue\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:flower_pink\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:flower_red\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:fortress\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:fried_egg\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:fries\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:frozen_river\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:gaming_headset\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:gates\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:ghost\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:gift_big\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:gift_small\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:gold_block\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:granite\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:grave\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:green_cubes\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:guardian\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:guardian_2\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:heart\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:helicopter\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:hockey\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:hot_dog\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:iron_block\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:ladders\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:lamp\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:laptop\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:leaves_tower\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:lilypad\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:lilypad_2\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:magma_cube\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:magnet\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:mallard\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:maze_jungle\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:maze_oak\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:mcdonalds\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:melon\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:mineshaft\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:mineshaft_dark\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:monolith\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:monument_gold\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:mooshroom_1\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:mooshroom_2\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:mouse\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:myl_1\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:myl_2\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:myl_3\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:napkin\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:nemo\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:number_one\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:obl\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:octopus\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:olrbm\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:orange_juice\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:oreo\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:palette\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:pants\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:peach\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:pencil\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:penguin\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:phone\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:piano\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:pickaxe\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:pig\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:pistons\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:plate_diamond\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:plate_mashed\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:plate_peas\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:plate_steak\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:plate_truffle\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:plunger\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:pokeball\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:prismarine\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:rails\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:rainbow\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:rainbow_glass\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:redstone_rails\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:red_blue\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:restaurant\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:ribs\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:rocket\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:rocket_fire\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:sad\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:sandstone_pyramid\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:santa_hat\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:sauron_eye\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:shears\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:shovel\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:skyblock\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:slimes\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:slime_big\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:slime_block\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:slime_small\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:snowflake\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:snowman_spikes\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:spider\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:spiral_staircase\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:sponge_bob\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:spruce_tree\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:squidward\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:steve\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:sushi_roll\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:target\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:throne\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:tnt\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:tnt_grass\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:trampoline\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:tree_road\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:trend_chart\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:tulips\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:turtle\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:turtle_2\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:tv\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:twitter\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:unicorn\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:voleyball\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:warp_pipe\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:water_cup\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:wine\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:wires\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:woody\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:worm\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:xp_orb\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:yellow_glass\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:yin_yang\",posY:0}, loot:1b}"
+            }
+        ]
+    },
+    {
+        "type": "minecraft:item",
+        "name": "minecraft:stone",
+        "functions": [
+            {
+                "function": "minecraft:set_nbt",
+                "tag": "{structure_data:{name:\"speedbuilders:zombie\",posY:0}, loot:1b}"
+            }
+        ]
+    }      
+        ]
+    }
+  ]
+}

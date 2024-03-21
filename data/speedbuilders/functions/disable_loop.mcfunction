@@ -1,0 +1,2 @@
+scoreboard players set %isEnabled loop 0
+data merge block 7 12 1 {Text1:'{"text":"","clickEvent":{"action":"run_command","value":"function speedbuilders:enable_loop"}}',Text2:'{"text":"enable loop","color":"#FFFFFF"}'}

@@ -1,0 +1,2 @@
+scoreboard players set %isEnabled teleport 0
+data merge block 7 13 1 {Text1:'{"text":"","clickEvent":{"action":"run_command","value":"function speedbuilders:enable_teleport"}}',Text2:'{"text":"enable teleport","color":"#FFFFFF"}'}
